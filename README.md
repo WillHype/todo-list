@@ -1,5 +1,6 @@
 # TODO-LIST APP
 
-![Capture d'écran 2023-12-28 113503](https://github.com/WillHype/todo-list/assets/11022174/f562fe99-a6cf-4086-a304-4ec4c6a3841d)
+![image](https://github.com/WillHype/todo-list/assets/11022174/bbe016ae-449a-4fcf-bff9-d5af84a315fc)
+
 
 A simple app using HTML, CSS &amp; JS
